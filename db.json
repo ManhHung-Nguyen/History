@@ -1,8 +1,8 @@
 {
-  "history": {
+  "history": [
     {
       "date_time": 1,
       "function": "hello"
     }
-  }
+  ]
 }
