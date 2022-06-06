@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "history": {
     {
-      "id": 1,
-      "title": "hello"
+      "date_time": 1,
+      "function": "hello"
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
 }
